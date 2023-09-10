@@ -8,3 +8,5 @@ latest patches and fixes for stalker anomaly 1.5.2
 4. SCREEN SPACE SHADERS https://www.moddb.com/mods/stalker-anomaly/addons/screen-space-shaders
 5. FIXED VANILLA MODELS & TEXTURES https://www.moddb.com/mods/stalker-anomaly/addons/fvm
 6. My config with correct tonemaping and gamma settings https://www.moddb.com/games/stalker-call-of-pripyat/addons/stalker-anomaly-finetuning-config-file
+
+Unpack it inside vanilla Anomaly 1.5.2
