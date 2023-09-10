@@ -1,6 +1,8 @@
 # Clean Anomaly Fix Pack
 Latest Patches and Fixes for S.T.A.L.K.E.R. Anomaly 1.5.2
 
+Credits
+
 0. Small Fix Pack https://www.moddb.com/mods/stalker-anomaly/addons/small-fixes-pack-for-anomaly-152
 1. STALKER Anomaly modded exes https://github.com/themrdemonized/STALKER-Anomaly-modded-exes
 2. Anomaly Mod Configuration Menu https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-mod-configuration-menu
