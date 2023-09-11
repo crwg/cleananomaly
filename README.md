@@ -4,7 +4,7 @@ WORKS ONLY WITH DX11 R4 Render TYPE
 
 In this pack I used :
 
-1. DXVK https://github.com/doitsujin/dxvk
+1. DXVK https://github.com/doitsujin/dxvk (deleted after 1.1 pack version)
 2. Small Fix Pack https://www.moddb.com/mods/stalker-anomaly/addons/small-fixes-pack-for-anomaly-152
 3. STALKER Anomaly modded exes https://github.com/themrdemonized/STALKER-Anomaly-modded-exes
 4. Anomaly Mod Configuration Menu https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-mod-configuration-menu
