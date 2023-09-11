@@ -1,6 +1,6 @@
 # Clean Anomaly Fix Pack
 Latest Patches and Fixes for S.T.A.L.K.E.R. Anomaly 1.5.2
-
+[ WORKS ONLY WITH DX11 R4 Render TYPE]
 In this pack I used :
 
 1. DXVK https://github.com/doitsujin/dxvk
