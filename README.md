@@ -13,4 +13,4 @@ In this pack I used :
 7. FIXED VANILLA MODELS & TEXTURES https://www.moddb.com/mods/stalker-anomaly/addons/fvm
 8. My config with correct tonemaping and gamma settings https://www.moddb.com/games/stalker-call-of-pripyat/addons/stalker-anomaly-finetuning-config-file
 
-Unpack it inside vanilla Anomaly 1.5.2
+Unpack it inside vanilla Anomaly 1.5.2 with replace
