@@ -1,6 +1,6 @@
 ### Latest Patches and Fixes - Complete Pack for S.T.A.L.K.E.R. Anomaly 1.5.2
 
-WORKS BETTER WITH DX11 R4 Render TYPE
+**If you feel than gamma is too high, just tune "r2_tnmp_gamma 0.5" in the console (~) key**
 
 In this pack I used :
 
