@@ -1,7 +1,5 @@
 ### Latest Patches and Fixes - Complete Pack for S.T.A.L.K.E.R. Anomaly 1.5.2
-
-![sample](https://github.com/TheOldRustyCrown/cleananomaly/assets/13091768/7ca942ff-08b2-471c-9795-a0550534b974)
-
+![sample](https://github.com/TheOldRustyCrown/cleananomaly/assets/13091768/3306a897-f1dc-4114-9bb5-d8e255af11e1)
 In this pack I used :
 
 - DXVK https://github.com/doitsujin/dxvk (Optional Download / But recomended if not crashes on your system)
@@ -13,11 +11,11 @@ In this pack I used :
 - FIXED VANILLA MODELS & TEXTURES https://www.moddb.com/mods/stalker-anomaly/addons/fvm
 - FOOD, DRUG AND DRINKS ANIMATIONS V0.9 https://www.moddb.com/mods/stalker-anomaly/addons/food-drug-and-drinks-animations-reuploaded
 - FDDA ENHANCED ANIMATIONS - FOOD AND DRINKS https://www.moddb.com/mods/stalker-anomaly/addons/fdda-enhanced-animations-food-n-drinks
-- My config with correct tonemaping and gamma settings https://www.moddb.com/games/stalker-call-of-pripyat/addons/stalker-anomaly-finetuning-config-file
+- My config with correct tonemaping and gamma settings https://www.moddb.com/games/stalker-call-of-pripyat/addons/stalker-anomaly-finetuning-config-file (outdated, in this pack newer version already)
 - ALife tiny optimizations
 
-**Unpack it inside vanilla Anomaly 1.5.2 with replace**
+### HOW TO INSTALL
 
-You optionally can download and unpack DXVK in "Bin" folder (but on some systems it crashes on launch, so just delete these libs if it happens)
+Unpack "PureAnomalyFinal.zip" inside the vanilla Anomaly 1.5.2 folder with replace
 
-_I have deleted all older releases btw :|_
+Now I will only update the config file, so you need to after unpacking "PureAnomalyFinal.zip" replace the config in "appdata" by the new one from "configOnly.zip"
