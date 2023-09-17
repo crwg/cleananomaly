@@ -1,6 +1,6 @@
 ### Latest Patches and Fixes - Complete Pack for S.T.A.L.K.E.R. Anomaly 1.5.2
 
-**If you feel than gamma is too high, just tune "r2_tnmp_gamma 0.5" in the console (~) key**
+![sample](https://github.com/TheOldRustyCrown/cleananomaly/assets/13091768/7ca942ff-08b2-471c-9795-a0550534b974)
 
 In this pack I used :
 
