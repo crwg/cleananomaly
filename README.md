@@ -11,6 +11,8 @@ In this pack I used :
 5. Enhanced GUI https://www.moddb.com/mods/stalker-anomaly/addons/enhanced-gui
 6. SCREEN SPACE SHADERS https://www.moddb.com/mods/stalker-anomaly/addons/screen-space-shaders
 7. FIXED VANILLA MODELS & TEXTURES https://www.moddb.com/mods/stalker-anomaly/addons/fvm
-8. My config with correct tonemaping and gamma settings https://www.moddb.com/games/stalker-call-of-pripyat/addons/stalker-anomaly-finetuning-config-file
+8. FOOD, DRUG AND DRINKS ANIMATIONS V0.9 https://www.moddb.com/mods/stalker-anomaly/addons/food-drug-and-drinks-animations-reuploaded
+9. FDDA ENHANCED ANIMATIONS - FOOD AND DRINKS https://www.moddb.com/mods/stalker-anomaly/addons/fdda-enhanced-animations-food-n-drinks
+10. My config with correct tonemaping and gamma settings https://www.moddb.com/games/stalker-call-of-pripyat/addons/stalker-anomaly-finetuning-config-file
 
 Unpack it inside vanilla Anomaly 1.5.2 with replace
