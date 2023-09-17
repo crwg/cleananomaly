@@ -18,4 +18,4 @@ In this pack I used :
 
 Unpack "PureAnomalyFinal.zip" inside the vanilla Anomaly 1.5.2 folder with replace
 
-Now I will only update the config file, so you need to after unpacking "PureAnomalyFinal.zip" replace the config in "appdata" by the new one from "configOnly.zip"
+Now I will only update the config file, so after unpacking you need to replace the config in "appdata" by the new one from "configOnly.zip"
