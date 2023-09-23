@@ -19,3 +19,6 @@ In this pack I used :
 Unpack "PureAnomalyFinal.zip" inside the vanilla Anomaly 1.5.2 folder with replace
 
 Now I will only update the config file, so after unpacking you need to replace the config in "appdata" by the new one from "configOnly.zip"
+Also I will add some patches later, check the latest release for advanced files
+1. [Added MBlur Patch](https://www.moddb.com/mods/stalker-anomaly/addons/enhanced-motion-blur)https://www.moddb.com/mods/stalker-anomaly/addons/enhanced-motion-blur
+
