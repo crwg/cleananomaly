@@ -1,8 +1,15 @@
-### Latest Patches and Fixes - Complete Pack for S.T.A.L.K.E.R. Anomaly 1.5.2
-![22](https://github.com/TheOldRustyCrown/cleananomaly/assets/13091768/772691e3-f079-407d-bcfa-b911548c5507)
+### Latest patches and fixpacks for S.T.A.L.K.E.R. Anomaly 1.5.2
+### HOW TO INSTALL
+
+1. Unpack "PureAnomalyFinal.zip" inside the vanilla Anomaly 1.5.2 folder with replace
+2. Update the latest config in appdata (user.ltx)
+
+If you have crashes with new shaders, just download visual studio, and check "C/C++ libraries" to install https://visualstudio.microsoft.com/vs/community
+
+![22](https://github.com/TheOldRustyCrown/cleananomaly/assets/13091768/ea3ece9d-0b23-40b7-8d67-bf74264d90e3)
 ![sample](https://github.com/TheOldRustyCrown/cleananomaly/assets/13091768/3306a897-f1dc-4114-9bb5-d8e255af11e1)
 
-In this pack I used :
+Credits, In this pack I used :
 
 - [DXVK](https://github.com/doitsujin/dxvk) Optional Download / But recomended if not crashes on your system
 - [Small Fix Pack](https://www.moddb.com/mods/stalker-anomaly/addons/small-fixes-pack-for-anomaly-152)
@@ -20,13 +27,7 @@ In this pack I used :
 **To change the language go to "Настройки -> Другое -> Язык Игры"**
 
 
-### HOW TO INSTALL
-
-Just unpack "PureAnomalyFinal.zip" inside the vanilla Anomaly 1.5.2 folder with replace
-And also update the latest config in appdata from "configOnly.zip"
-If you have crashes with new shaders, just download visual studio, and check "C/C++ libraries" to install https://visualstudio.microsoft.com/vs/community
-
-Now I will only update the config file, so after unpacking you need to replace the config in "appdata" by the new one from "configOnly.zip"
+Now I will only update the config file, so after unpacking you need to replace the config in "appdata"
 
 Updates :
 
