@@ -6,6 +6,8 @@
 
 If you have crashes with new shaders, just download visual studio, and check "C/C++ libraries" to install https://visualstudio.microsoft.com/vs/community
 
+Color grading Comparison :
+
 ![22](https://github.com/TheOldRustyCrown/cleananomaly/assets/13091768/ea3ece9d-0b23-40b7-8d67-bf74264d90e3)
 ![sample](https://github.com/TheOldRustyCrown/cleananomaly/assets/13091768/3306a897-f1dc-4114-9bb5-d8e255af11e1)
 
