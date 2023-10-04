@@ -1,4 +1,5 @@
 ### Latest Patches and Fixes - Complete Pack for S.T.A.L.K.E.R. Anomaly 1.5.2
+![22](https://github.com/TheOldRustyCrown/cleananomaly/assets/13091768/772691e3-f079-407d-bcfa-b911548c5507)
 ![sample](https://github.com/TheOldRustyCrown/cleananomaly/assets/13091768/3306a897-f1dc-4114-9bb5-d8e255af11e1)
 
 In this pack I used :
@@ -21,7 +22,9 @@ In this pack I used :
 
 ### HOW TO INSTALL
 
-Unpack "PureAnomalyFinal.zip" inside the vanilla Anomaly 1.5.2 folder with replace
+Just unpack "PureAnomalyFinal.zip" inside the vanilla Anomaly 1.5.2 folder with replace
+And also update the latest config in appdata from "configOnly.zip"
+If you have crashes with new shaders, just download visual studio, and check "C/C++ libraries" to install https://visualstudio.microsoft.com/vs/community
 
 Now I will only update the config file, so after unpacking you need to replace the config in "appdata" by the new one from "configOnly.zip"
 
