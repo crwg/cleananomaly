@@ -1,4 +1,4 @@
-### Latest patches and fixpacks for S.T.A.L.K.E.R. Anomaly 1.5.2
+### Tiny Modpack with fixes for S.T.A.L.K.E.R. Anomaly 1.5.2
 ### HOW TO INSTALL
 
 1. Unpack "PureAnomalyFinal.zip" inside the vanilla Anomaly 1.5.2 folder with replace
