@@ -29,7 +29,6 @@ Credits, In this pack I used :
 
 **To change the language go to "Настройки -> Другое -> Язык Игры"**
 
-
 Now I will only update the config file, so after unpacking you need to replace the config in "appdata"
 
 Updates :
